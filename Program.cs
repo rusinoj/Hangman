@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -12,7 +12,7 @@ namespace Hangman
         //Application Type: Application that facilitates a game of hangman for the user
         //Author: Jack Rusinowski
         //Date Created: 7/15/2021
-        //Last Modified: 7/24/2021
+        //Last Modified: 7/25/2021
         //***************************************
 
         public static List<char> pickedWord;
